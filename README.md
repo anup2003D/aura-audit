@@ -29,5 +29,6 @@ This is a **sequential** 11-step challenge. Each step builds on the previous one
 
 ## Submission
 Fork the project and update the code and share the link to lakshminarasimhan.santhanam@qli.org.in
+You should complete ASAP.  Entries will be considered First in First Out.
 
 Good luck!
