@@ -10,3 +10,6 @@ fairlearn
 pytest
 langchain-community
 langchain-openai
+langchain-groq
+langchain-huggingface
+python-dotenv
